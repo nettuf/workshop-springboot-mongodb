@@ -12,7 +12,6 @@ public class UserDTO implements Serializable{
 	private String email;
 	
 	private UserDTO() {
-		
 	}
 	
 	public UserDTO(User obj) {
